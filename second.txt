@@ -1,0 +1,10 @@
+# this is a test
+
+If this file is checked in origin/master branch,
+we can upload commit to remote repository via:
+	git add .
+	git commit -s
+	git push origin master
+
+this file will be checked in a task branch.
+how can we do that?
