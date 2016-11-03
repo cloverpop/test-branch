@@ -18,6 +18,8 @@ git push origin master
 
 # add a remote branch
 git push origin master:new_feature_name
+or 
+git push -u origin $BRANCH_NAME
 
 # update local branch
 git pull
